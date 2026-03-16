@@ -7,3 +7,5 @@
 🔧 Skilled in database design, query optimization, and financial data pipelines. 
 
 📈 I turn raw financial data into actionable insights — securely and efficiently. 
+
+
